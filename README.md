@@ -1,2 +1,11 @@
 # DrowsinessDetection
-It is used to detectthe driver's Drowsiness and alert the driver by giving alarm sound and recommending  the near by motels.
+It is used to detect the Driver's Drowsiness and Alert the Driver by giving Alarm sound and Recommending  the near by Motels.
+## API
+Google Maps
+## Libaray
+* Dlib
+## webFrame Work
+* Flask
+
+
+
