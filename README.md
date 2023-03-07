@@ -4,8 +4,11 @@ It is used to detect the Driver's Drowsiness and Alert the Driver by giving Alar
 Google Maps
 ## Libaray
 * Dlib
-## webFrame Work
+## Web Framwork
 * Flask
+# Steps to follow:
+1) Install the libraries
+
 
 
 
